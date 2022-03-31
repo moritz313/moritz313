@@ -6,9 +6,8 @@
 ![alt text](https://img.shields.io/badge/Age%3A-19-green "Badge")
 ![alt text](https://img.shields.io/badge/Languages%3A-English%20%26%20German-blueviolet "Badge")
 ![alt text](https://img.shields.io/badge/Located%20in%3A-Switzerland-red "Badge")
-![alt text](https://img.shields.io/youtube/channel/subscribers/UChpqqNKz-mMRmy4to9TmQJA?style=social "Badge")
 ![alt text](https://komarev.com/ghpvc/?username=moritz313&label=Profile%20views&color=0e75b6&style=flat "Badge")
-
+![alt text](https://img.shields.io/youtube/channel/subscribers/UChpqqNKz-mMRmy4to9TmQJA?style=social "Badge")
 
 
 <p align="left"> <a href="https://twitter.com/aresclient" target="blank"><img src="https://img.shields.io/twitter/follow/aresclient?logo=twitter&style=for-the-badge" alt="aresclient" /></a> </p>
