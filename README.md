@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/aresclient" target="blank"><img src="https://img.shields.io/twitter/follow/aresclient?logo=twitter&style=for-the-badge" alt="aresclient" /></a> </p>
 
-- 🔭 I’m currently working on **my CSGO Mod**
+- 🔭 I’m currently working on **my first Swift App**
 
 - 🌱 I’m currently learning **Swift**
 
-- 💬 Ask me about **Java**
+- 💬 Dont ask me about **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
