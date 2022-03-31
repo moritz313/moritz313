@@ -2,6 +2,10 @@
 <h3 align="center">A passionate developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moritz313&label=Profile%20views&color=0e75b6&style=flat" alt="moritz313" /> </p>
+![alt text](https://img.shields.io/badge/Name%3A-Moritz-blue "Badge")
+![alt text](https://img.shields.io/badge/Age%3A-19-green "Badge")
+![alt text](https://img.shields.io/badge/Languages%3A-English%20%26%20German-blueviolet "Badge")
+![alt text](https://img.shields.io/badge/Located%20in%3A-Switzerland-red "Badge")
 
 <p align="left"> <a href="https://twitter.com/aresclient" target="blank"><img src="https://img.shields.io/twitter/follow/aresclient?logo=twitter&style=for-the-badge" alt="aresclient" /></a> </p>
 
