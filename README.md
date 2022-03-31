@@ -10,8 +10,6 @@
 ![alt text](https://img.shields.io/youtube/channel/subscribers/UChpqqNKz-mMRmy4to9TmQJA?style=social "Badge")
 
 
-<p align="left"> <a href="https://twitter.com/aresclient" target="blank"><img src="https://img.shields.io/twitter/follow/aresclient?logo=twitter&style=for-the-badge" alt="aresclient" /></a> </p>
-
 - 🔭 I’m currently working on **my first Swift App**
 
 - 🌱 I’m currently learning **Swift**
