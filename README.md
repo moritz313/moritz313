@@ -8,6 +8,7 @@
 ![alt text](https://img.shields.io/badge/Located%20in%3A-Switzerland-red "Badge")
 ![alt text](https://komarev.com/ghpvc/?username=moritz313&label=Profile%20views&color=0e75b6&style=flat "Badge")
 ![alt text](https://img.shields.io/youtube/channel/subscribers/UChpqqNKz-mMRmy4to9TmQJA?style=social "Badge")
+![alt text](https://img.shields.io/youtube/channel/views/UChpqqNKz-mMRmy4to9TmQJA?style=social "Badge")
 
 
 - 🔭 I’m currently working on **my first Swift App**
