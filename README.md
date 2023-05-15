@@ -3,7 +3,7 @@
 
 
 ![alt text](https://img.shields.io/badge/Name%3A-Moritz-blue "Badge")
-![alt text](https://img.shields.io/badge/Age%3A-19-green "Badge")
+![alt text](https://img.shields.io/badge/Age%3A-20-green "Badge")
 ![alt text](https://img.shields.io/badge/Languages%3A-English%20%26%20German-blueviolet "Badge")
 ![alt text](https://img.shields.io/badge/Located%20in%3A-Switzerland-red "Badge")
 ![alt text](https://komarev.com/ghpvc/?username=moritz313&label=Profile%20views&color=0e75b6&style=flat "Badge")
