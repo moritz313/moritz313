@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moritz</h1>
-<h3 align="center">A passionate developer from Germany</h3>
+<h3 align="center">A (more or less) passionate developer from Germany</h3>
 
 
 ![alt text](https://img.shields.io/badge/Name%3A-Moritz-blue "Badge")
