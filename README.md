@@ -11,7 +11,7 @@
 ![alt text](https://img.shields.io/youtube/channel/views/UChpqqNKz-mMRmy4to9TmQJA?style=social "Badge")
 
 
-- 🔭 I'm currently working on an [Ios App with swift](https://github.com/moritz313/Werwolf-Inspired-Swift-App), a [multiplayer game in unity with c#](https://github.com/moritz313/FPS-Game), the so called [Ares Client](https://www.aresclient.com/) in java, and a few other small projects.
+- 🔭 I'm currently working on an [Ios App with swift](https://github.com/moritz313/Party-Game), and the so called [Ares Client](https://www.aresclient.com/) in java, and a few other small projects.
 
 - 🌱 I’m currently learning **Swift**, **C++** and **Java**
 
